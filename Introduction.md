@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Ali.
-- 👀 I’m interested in front-end Web Development.
-- 🌱 I’m currently learning JavaScript libraries and CSS libraries.
+- 👀 I’m interested in full-stack Web Development.
+- 🌱 I’m currently learning JavaScript libraries and PHP libraries.
 - 📫 You can reach me through my Email => hasanbut17314@gmail.com
 
 <!---
